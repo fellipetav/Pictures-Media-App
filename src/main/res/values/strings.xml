@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pictures Media App</string>
+    <string name="activity_main_header_title_text">This is Blank Activity</string>
+    <string name="paris">Paris</string>
+    <string name="rio_de_janeiro">Rio de Janeiro</string>
+    <string name="agra">Agra</string>
+    <string name="guess_a_number">Guess a number between 1 and 5</string>
+    <string name="click_me">Click Me</string>
+</resources>
